@@ -1,0 +1,5 @@
+[
+  { "name": "Plan the interface", "description": "Create the initial screen structure", "priority": "High", "status": "In Progress", "dueDate": "2026-11-01", "progress": 60 },
+  { "name": "Connect the API", "description": "Wire the client to the REST service", "priority": "Medium", "status": "To Do", "dueDate": "2026-11-05", "progress": 20 },
+  { "name": "Review the release", "description": "Perform the final quality review", "priority": "Low", "status": "Review", "dueDate": "2026-11-08", "progress": 85 }
+]

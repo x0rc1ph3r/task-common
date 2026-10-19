@@ -1,0 +1,10 @@
+# Dependencies and build output.
+frontend/node_modules
+frontend/build
+backend/node_modules
+
+# Local environment and operating-system files.
+backend/.env
+frontend/.env
+.DS_Store
+*.log
